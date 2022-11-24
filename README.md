@@ -10,6 +10,7 @@ Usuario Github: juanfvilla
 | `Orcid` | *https://orcid.org/0000-0003-2626-2108* |
 | `ResearcherID` | *http://www.webofscience.com/wos/author/record/HDO-2143-2022* |
 | `Academia` | *https://senasofiaplus.academia.edu/JuanVillaHernández* |
+| `OSF` | *https://osf.io/rg942/* |
 
 
 | **Proyectos** | **Link** |
