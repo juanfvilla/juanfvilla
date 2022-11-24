@@ -8,3 +8,5 @@ Usuario Github: juanfvilla
 | --- | --- |
 | `Linkedin` | *https://www.linkedin.com/in/juanfernandovillahernandez/* |
 | `Orcid` | *https://orcid.org/0000-0003-2626-2108* |
+| `ResearcherID` | *http://www.webofscience.com/wos/author/record/HDO-2143-2022* |
+
