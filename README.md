@@ -6,4 +6,6 @@ Usuario Github: juanfvilla
 
 ---
 ORCID: https://orcid.org/0000-0003-2626-2108
+X:X
+X:X
 ---
