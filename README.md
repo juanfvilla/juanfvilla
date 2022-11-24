@@ -4,15 +4,17 @@ Frase favorita: Sea siempre la verdad tu aliada y la solidaridad tu forma de vid
 Usuario Github: juanfvilla
 ---
 
-| **Perfil** | **Link** |
+| **Perfiles** | **Link** |
 | --- | --- |
 | `Linkedin` | *https://www.linkedin.com/in/juanfernandovillahernandez/* |
 | `Orcid` | *https://orcid.org/0000-0003-2626-2108* |
 | `ResearcherID` | *http://www.webofscience.com/wos/author/record/HDO-2143-2022* |
+| `Academia` | *https://senasofiaplus.academia.edu/JuanVillaHernández* |
 
-| **proyectos** | **Link** |
+
+| **Proyectos** | **Link** |
 | --- | --- |
 | `Smart Cities Community` | *https://github.com/smartcitiescommunity/* |
-| `Civikmind` | *https://github.com/smartcitiescommunity/Civikmind * |
+| `Civikmind` | *https://github.com/smartcitiescommunity/Civikmind* |
 | `IDB Social Data Py` | *https://github.com/EL-BID/idbsocialdatapy* |
 
