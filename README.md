@@ -11,6 +11,8 @@ Usuario Github: juanfvilla
 | `ResearcherID` | *http://www.webofscience.com/wos/author/record/HDO-2143-2022* |
 | `Academia` | *https://senasofiaplus.academia.edu/JuanVillaHernández* |
 | `OSF` | *https://osf.io/rg942/* |
+| `Research Gate` | *https://www.researchgate.net/profile/Juan-Fernando-Villa-Hernandez* |
+
 
 
 | **Proyectos** | **Link** |
