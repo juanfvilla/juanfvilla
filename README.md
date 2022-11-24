@@ -1,7 +1,7 @@
 ---
 Nombre: Juan Fernando Villa
 Frase favorita: Sea siempre la verdad tu aliada y la solidaridad tu forma de vida para no vivir en la deshonra de fines egoistas y el prejuicio. 
-Usuario Github: juanfvilla
+Usuario Github: @juanfvilla 
 ---
 
 | **Perfiles** | **Link** |
