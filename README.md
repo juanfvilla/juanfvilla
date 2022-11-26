@@ -12,7 +12,7 @@ Usuario Github: juanfvilla
 | `Academia` | *https://senasofiaplus.academia.edu/JuanVillaHernández* |
 | `OSF` | *https://osf.io/rg942/* |
 | `Research Gate` | *https://www.researchgate.net/profile/Juan-Fernando-Villa-Hernandez* |
-| `Credly` | *credly.com/users/juan-fernando-villa-hernandez* |
+| `Credly` | *https://credly.com/users/juan-fernando-villa-hernandez* |
 
 
 
