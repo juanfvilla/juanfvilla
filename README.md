@@ -15,10 +15,15 @@ Usuario Github: juanfvilla
 | `Credly` | *https://credly.com/users/juan-fernando-villa-hernandez* |
 
 
-
 | **Proyectos** | **Link** |
 | --- | --- |
 | `Smart Cities Community` | *https://github.com/smartcitiescommunity/* |
 | `Civikmind` | *https://github.com/smartcitiescommunity/Civikmind* |
 | `IDB Social Data Py` | *https://github.com/EL-BID/idbsocialdatapy* |
+
+
+| **Redes Sociales** | **Link** |
+| --- | --- |
+| `Youtube` | *http://bit.ly/Smart-Cities-Community-Youtube* |
+
 
