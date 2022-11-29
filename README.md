@@ -30,5 +30,7 @@ Usuario Github: juanfvilla
 | `Facebook` | http://bit.ly/Smart-Cities-Community-Facebook |
 | `Twitter` | http://bit.ly/Smart-Cities-Community-Twitter |
 
-
-
+| **Comunidades** | **Link** |
+| :-------------: | :-------------: |
+| `Civikmind` | https://civikmind.slack.com/ |
+| `IDISP` | https://idisp.slack.com/|
