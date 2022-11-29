@@ -17,7 +17,7 @@ Usuario Github: juanfvilla
 
 | **Proyectos** | **Link** |
 | --- | --- |
-| `Smart Cities Community` | *https://github.com/smartcitiescommunity/* |
+| `Smart Cities Community` | *https://github.com/smartcitiescommunity/* *https://github.com/smartcitiescommunity/listofprojects* |
 | `Civikmind` | *https://github.com/smartcitiescommunity/Civikmind* |
 | `IDB Social Data Py` | *https://github.com/EL-BID/idbsocialdatapy* |
 
