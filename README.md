@@ -34,3 +34,5 @@ Usuario Github: juanfvilla
 | :-------------: | :-------------: |
 | `Civikmind` | https://civikmind.slack.com/ |
 | `IDISP` | https://idisp.slack.com/|
+| `Comunidad Activa` | https://comunidadactiva.bit.ai/|
+
